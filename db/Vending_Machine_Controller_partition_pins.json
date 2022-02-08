@@ -1,0 +1,789 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "coin_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[8]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[9]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[10]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[11]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[12]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[13]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[14]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[15]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[16]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[17]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[18]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[19]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[20]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[21]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[22]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[23]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[24]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[25]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[26]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[27]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[28]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[29]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[30]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_out[31]",
+					"strict" : false
+				},
+				{
+					"name" : "total[0]",
+					"strict" : false
+				},
+				{
+					"name" : "total[1]",
+					"strict" : false
+				},
+				{
+					"name" : "total[2]",
+					"strict" : false
+				},
+				{
+					"name" : "total[3]",
+					"strict" : false
+				},
+				{
+					"name" : "total[4]",
+					"strict" : false
+				},
+				{
+					"name" : "total[5]",
+					"strict" : false
+				},
+				{
+					"name" : "total[6]",
+					"strict" : false
+				},
+				{
+					"name" : "total[7]",
+					"strict" : false
+				},
+				{
+					"name" : "total[8]",
+					"strict" : false
+				},
+				{
+					"name" : "total[9]",
+					"strict" : false
+				},
+				{
+					"name" : "total[10]",
+					"strict" : false
+				},
+				{
+					"name" : "total[11]",
+					"strict" : false
+				},
+				{
+					"name" : "total[12]",
+					"strict" : false
+				},
+				{
+					"name" : "total[13]",
+					"strict" : false
+				},
+				{
+					"name" : "total[14]",
+					"strict" : false
+				},
+				{
+					"name" : "total[15]",
+					"strict" : false
+				},
+				{
+					"name" : "total[16]",
+					"strict" : false
+				},
+				{
+					"name" : "total[17]",
+					"strict" : false
+				},
+				{
+					"name" : "total[18]",
+					"strict" : false
+				},
+				{
+					"name" : "total[19]",
+					"strict" : false
+				},
+				{
+					"name" : "total[20]",
+					"strict" : false
+				},
+				{
+					"name" : "total[21]",
+					"strict" : false
+				},
+				{
+					"name" : "total[22]",
+					"strict" : false
+				},
+				{
+					"name" : "total[23]",
+					"strict" : false
+				},
+				{
+					"name" : "total[24]",
+					"strict" : false
+				},
+				{
+					"name" : "total[25]",
+					"strict" : false
+				},
+				{
+					"name" : "total[26]",
+					"strict" : false
+				},
+				{
+					"name" : "total[27]",
+					"strict" : false
+				},
+				{
+					"name" : "total[28]",
+					"strict" : false
+				},
+				{
+					"name" : "total[29]",
+					"strict" : false
+				},
+				{
+					"name" : "total[30]",
+					"strict" : false
+				},
+				{
+					"name" : "total[31]",
+					"strict" : false
+				},
+				{
+					"name" : "delivered",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[14]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[13]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[12]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[11]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[9]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[10]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[8]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[18]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[21]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[20]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[19]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[17]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[16]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[15]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[25]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[28]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[27]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[26]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[24]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[23]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[22]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[31]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[30]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_in[29]",
+					"strict" : false
+				},
+				{
+					"name" : "proceed",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[0]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[0]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[1]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[1]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[2]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[2]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[3]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[3]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[4]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[4]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[5]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[5]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[6]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[6]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[7]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[7]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[8]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[8]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[9]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[9]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[10]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[10]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[11]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[11]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[12]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[12]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[13]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[13]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[14]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[14]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[15]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[15]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[16]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[16]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[17]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[17]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[18]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[18]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[19]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[19]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[20]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[20]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[21]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[21]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[22]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[22]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[23]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[23]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[24]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[24]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[25]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[25]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[26]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[26]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[27]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[27]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[28]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[28]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[29]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[29]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[30]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[30]",
+					"strict" : false
+				},
+				{
+					"name" : "paper_soap[31]",
+					"strict" : false
+				},
+				{
+					"name" : "tissue_paper[31]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[7]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[8]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[9]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[10]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[11]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[12]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[13]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[14]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[15]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[16]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[17]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[18]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[19]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[20]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[21]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[22]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[23]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[24]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[25]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[26]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[27]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[28]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[29]",
+					"strict" : false
+				},
+				{
+					"name" : "sanitizer[30]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

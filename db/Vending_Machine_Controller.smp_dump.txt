@@ -1,0 +1,8 @@
+
+State Machine - |Vending_Machine_Controller|p_s
+Name p_s.refund p_s.payment_status p_s.select_item p_s.review p_s.idle 
+p_s.idle 0 0 0 0 0 
+p_s.review 0 0 0 1 1 
+p_s.select_item 0 0 1 0 1 
+p_s.payment_status 0 1 0 0 1 
+p_s.refund 1 0 0 0 1 
