@@ -1,7 +1,7 @@
 # Vending Machine Controller using VHDL
 
 - In this project, I have designed and implemented Vending Machine Controller using VHDL using Quartus Prime and Modelsim software.
-- To explore the project you can git clone using this command:
+- To explore the project you can git clone using this command: gitclone https://github.com/RadhaKulkarni26/Vending-Machine-Controller-using-VHDL.git
 
 ## Table of Contents:
 
