@@ -19,7 +19,7 @@
 
 Vending Machine is an electronic machine used to dispense a product to a consumer after a prescribed amount of money has been put into the machine. Considering the current situation, the three most important things we need when we are outside are sanitizer, tissue paper, and paper soap for cleanliness and sanity purposes. So, we are designing a Vending Machine Controller using VHDL for sanitizer, tissue paper, and paper soap. This machine can be used at various places like railway station, food stalls, etc.  
 
-The FPGA based Vending machines are reprogrammable, flexible, and more advantageous in terms of speed, response and power consumption. FPGA based machine can be reprogrammed without the need to change the whole architecture when enhancing the model of machine.  Microcontroller execute all operations in a sequential fashion whereas an FPGA is a field programmable gate array which will execute all your operations in parallel fashion. 
+The FPGA based Vending machines are reprogrammable, flexible, and more advantageous in terms of speed, response and power consumption. FPGA based machine can be reprogrammed without the need to change the whole architecture when enhancing the model of machine. Microcontroller executes all operations in a sequential fashion whereas an FPGA is a field programmable gate array which will execute all your operations in parallel fashion. 
 
 ### 1.1 FSM (Finite State Machine) [2] [3] 
 ***
