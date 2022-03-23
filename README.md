@@ -139,8 +139,5 @@ The above system can be implement using any FPGA Development Board where you can
 1. Ana Monga, Balwinder Singh “Finite State Machine based Vending Machine Controller with Auto-Billing Features” *International Journal of VLSI design & Communication Systems (VLSICS) Vol.3, No.2, April 2012*.  
 1. Xilinx Inc., Spartan 3 Data sheet: http://ww w.xilinx.com.  
 1. Bhaskar “VHDL primer” Second Edition,   
-1. C. J Clement Singh, K Senthil Kumar, Jayanto Gope, Suman Basu & Subir Kumar Sarkar (2007) 
-
-“Single Electron Device based Automatic Tea Vending Machine*” proceedings of International Conference on Information and Communication Technology in Electrical Sciences (ICTES 2007) ,* pp 891-896.   
-
+1. C. J Clement Singh, K Senthil Kumar, Jayanto Gope, Suman Basu & Subir Kumar Sarkar (2007) “Single Electron Device based Automatic Tea Vending Machine*” proceedings of International Conference on Information and Communication Technology in Electrical Sciences (ICTES 2007) ,* pp 891-896.   
 1. V.V.S.Vijay krishna, A. Monisha, Sk.Sadulla, J. Prathiba “Design and Implementation of an automatic Beverages Vending Machine and its performance evaluation using Xilinx ISE and Cadence” *IEEE - 31661* 
